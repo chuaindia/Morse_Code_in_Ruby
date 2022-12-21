@@ -19,7 +19,7 @@ def decode_word(morse_word)
     @word += decode_char(i)
   end
 
-  "#{@word} "
+  "#{@word}"
 end
 
 def decode(morse_code)
@@ -29,7 +29,7 @@ def decode(morse_code)
     @final_word += decode_word(morse_word)
   end
 
-  puts "#{@final_word} "
+  "#{@final_word}".strip
 end
 
 decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
