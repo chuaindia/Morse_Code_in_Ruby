@@ -25,6 +25,7 @@ end
 def decode(morse_code)
   @final_word = ''
   @morse_code_arr = morse_code.split('   ')
+  
   @morse_code_arr.map do |morse_word|
     @final_word += decode_word(morse_word) + ' '
   end
