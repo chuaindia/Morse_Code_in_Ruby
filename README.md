@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [MORSE_CODE_IN_RUBY] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[MORSE_CODE_IN_RUBY]** is a project in Ruby where Morse code is decoded to read the proper instructions
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -96,9 +96,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Morse Codes]**
+- **[Decoding codes]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +146,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: Ruby
 
 <!--
 Example command:
@@ -202,17 +201,19 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Tanusri Ghosh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+- GitHub: https://github.com/chuaindia)
+- Twitter: https://twitter.com/chuaghosh@
+- LinkedIn:https://linkedin.com/in/tanusrighosh
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abdulai Samuel Moiwa**
+
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samuel-moiwa-726340142/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,13 +265,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What is Morse Code ?]**
 
-  - [Answer_1]
+  - [It is an encrypted information.]
 
-- **[Question_2]**
+- **[Where the Morse Code is used earlier?]**
 
-  - [Answer_2]
+  - [In Telegraphy to send messages which can not be readable by others. ]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
