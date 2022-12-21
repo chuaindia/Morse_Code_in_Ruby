@@ -223,9 +223,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[numbers to be added in CODE]**
+- [ ] **[More queries will be set to retrieve information]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
